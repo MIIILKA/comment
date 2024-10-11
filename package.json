@@ -13,10 +13,10 @@
   "author": "Andriy Panchiy <AndrewCrook@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "express": "^4.17.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
     "express-handlebars": "^6.0.3",
-    "express-session": "^1.17.3",
+    "express-session": "^1.18.1",
     "fs": "^0.0.1-security",
     "mongodb": "^4.5.0",
     "node-telegram-bot-api": "^0.57.0",

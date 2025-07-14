@@ -15,14 +15,14 @@
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "express": "^4.17.3",
-    "express-handlebars": "^6.0.3",
+    "express-handlebars": "^7.0.0",
     "express-session": "^1.17.3",
     "fs": "^0.0.1-security",
     "mongodb": "^4.5.0",
     "node-telegram-bot-api": "^0.57.0",
     "nodemon": "^2.0.15",
     "path": "^0.12.7",
-    "socket.io": "^4.5.1"
+    "socket.io": "^4.8.0"
   },
   "nodemonConfig": {
     "verbose": true,
